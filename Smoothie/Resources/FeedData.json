@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "item_type": "image",
+            "data": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/berry-smoothie_1-81c3a0b.jpg?quality=90&webp=true&resize=375,341",
+            "description" : "Delivering digital solutions to increase customer"
+        },
+        {
+            "item_type": "url",
+            "data": "https://material.io/components/",
+            "description" : "We are the 1st Party, white label platform"
+        },
+        {
+            "item_type": "text",
+            "data": "Welcome to SMOOTHIE",
+            "description" : "We take ordering to the next level with personalized customer"
+            
+        },
+        
+        {
+            "item_type": "video",
+            "data": "https://devstreaming-cdn.apple.com/videos/wwdc/2017/230lc4n1loob9/230/hls_vod_mvp.m3u8",
+            "description" : "We put you back in control of the customer’s experience."
+        }
+    ]
+}
